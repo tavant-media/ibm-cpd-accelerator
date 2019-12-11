@@ -1,7 +1,7 @@
 Media Analytics Accelerators for IBM Cloud Pack for Data
 ===========================
 
-The repository will conaint various IBM Cloud Pack for Data accelerators. One of such accelerator is vieweship analytics which is explained in detail here. 
+The repository will contains various IBM Cloud Pack for Data accelerators. One of such accelerators is Vieweship Analytics Accelerator. 
 
 ### Viewership Analytics
 
